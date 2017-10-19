@@ -1,0 +1,305 @@
+/* __indigos__ */
+.text-indigo50 { color: #E8EAF6; }
+.text-indigo100 { color: #C5CAE9; }
+.text-indigo200 { color: #9FA8DA; }
+.text-indigo300 { color: #7986CB; }
+.text-indigo400 { color: #5C6BC0; }
+.text-indigo500 { color: #3F51B5; }
+.text-indigo600 { color: #3949AB; }
+.text-indigo700 { color: #303F9F; }
+.text-indigo800 { color: #283593; }
+.text-indigo-a100 { color: #8C9EFF; }
+.text-indigo-a200 { color: #536DFE; }
+.text-indigo-a400 { color: #3D5AFE; }
+.text-indigo-a700 { color: #304FFE; }
+
+/* __purpure__ */
+.text-purple50 { color: #F3E5F5 }
+.text-purple100 { color: #E1BEE7 }
+.text-purple200 { color: #CE93D8 }
+.text-purple300 { color: #BA68C8 }
+.text-purple400 { color: #AB47BC }
+.text-purple500 { color: #9C27B0 }
+.text-purple600 { color: #8E24AA }
+.text-purple700 { color: #7B1FA2 }
+.text-purple800 { color: #6A1B9A }
+.text-purple900 { color: #4A148C }
+
+.text-purple-a100 { color: #EA80FC }
+.text-purple-a200 { color: #E040FB }
+.text-purple-a400 { color: #D500F9 }
+.text-purple-a700 { color: #AA00FF }
+
+/* __deep-purpure__ */
+.text-deep-purple50 { color: #EDE7F6 }
+.text-deep-purple100 { color: #D1C4E9 }
+.text-deep-purple200 { color: #B39DDB }
+.text-deep-purple300 { color: #9575CD }
+.text-deep-purple400 { color: #7E57C2 }
+.text-deep-purple500 { color: #673AB7 }
+.text-deep-purple600 { color: #5E35B1 }
+.text-deep-purple700 { color: #512DA8 }
+.text-deep-purple800 { color: #4527A0 }
+.text-deep-purple900 { color: #311B92 }
+
+.text-deep-purple-a100 { color: #B388FF }
+.text-deep-purple-a200 { color: #7C4DFF }
+.text-deep-purple-a400 { color: #651FFF }
+.text-deep-purple-a700 { color: #6200EA }
+
+/* __pink__ */
+.text-pink50 { color: #FCE4EC }
+.text-pink100 { color: #F8BBD0 }
+.text-pink200 { color: #F48FB1 }
+.text-pink300 { color: #F06292 }
+.text-pink400 { color: #EC407A }
+.text-pink500 { color: #E91E63 }
+.text-pink600 { color: #D81B60 }
+.text-pink700 { color: #C2185B }
+.text-pink800 { color: #AD1457 }
+.text-pink900 { color: #880E4F }
+
+.text-pink-a100 { color: #FF80AB }
+.text-pink-a200 { color: #FF4081 }
+.text-pink-a400 { color: #F50057 }
+.text-pink-a700 { color: #C51162 }
+
+/* __red__ */
+.text-red50 { color: #FFEBEE }
+.text-red100 { color: #FFCDD2 }
+.text-red200 { color: #EF9A9A }
+.text-red300 { color: #E57373 }
+.text-red400 { color: #EF5350 }
+.text-red500 { color: #F44336 }
+.text-red600 { color: #E53935 }
+.text-red700 { color: #D32F2F }
+.text-red800 { color: #C62828 }
+.text-red900 { color: #B71C1C }
+
+.text-red-a100 { color: #FF8A80 }
+.text-red-a200 { color: #FF5252 }
+.text-red-a400 { color: #FF1744 }
+.text-red-a700 { color: #D50000 }
+
+/* __blue__ */
+.text-blue50 { color: #E3F2FD }
+.text-blue100 { color: #BBDEFB }
+.text-blue200 { color: #90CAF9 }
+.text-blue300 { color: #64B5F6 }
+.text-blue400 { color: #42A5F5 }
+.text-blue500 { color: #2196F3 }
+.text-blue600 { color: #1E88E5 }
+.text-blue700 { color: #1976D2 }
+.text-blue800 { color: #1565C0 }
+.text-blue900 { color: #0D47A1 }
+
+.text-blue-a100 { color: #82B1FF }
+.text-blue-a200 { color: #448AFF }
+.text-blue-a400 { color: #2979FF }
+.text-blue-a700 { color: #2962FF }
+
+/* __light-blue__ */
+.text-light-blue50 { color: #E1F5FE }
+.text-light-blue100 { color: #B3E5FC }
+.text-light-blue200 { color: #81D4FA }
+.text-light-blue300 { color: #4FC3F7 }
+.text-light-blue400 { color: #29B6F6 }
+.text-light-blue500 { color: #03A9F4 }
+.text-light-blue600 { color: #039BE5 }
+.text-light-blue700 { color: #0288D1 }
+.text-light-blue800 { color: #0277BD }
+.text-light-blue900 { color: #01579B }
+
+.text-light-blue-a100 { color: #80D8FF }
+.text-light-blue-a200 { color: #40C4FF }
+.text-light-blue-a400 { color: #00B0FF }
+.text-light-blue-a700 { color: #0091EA }
+
+/* __cyan__ */
+.text-cyan50 { color: #E0F7FA }
+.text-cyan100 { color: #B2EBF2 }
+.text-cyan200 { color: #80DEEA }
+.text-cyan300 { color: #4DD0E1 }
+.text-cyan400 { color: #26C6DA }
+.text-cyan500 { color: #00BCD4 }
+.text-cyan600 { color: #00ACC1 }
+.text-cyan700 { color: #0097A7 }
+.text-cyan800 { color: #00838F }
+.text-cyan900 { color: #006064 }
+
+.text-cyan-a100 { color: #84FFFF }
+.text-cyan-a200 { color: #18FFFF }
+.text-cyan-a400 { color: #00E5FF }
+.text-cyan-a700 { color: #00B8D4 }
+
+/* __teal__ */
+.text-teal50 { color: #E0F2F1 }
+.text-teal100 { color: #B2DFDB }
+.text-teal200 { color: #80CBC4 }
+.text-teal300 { color: #4DB6AC }
+.text-teal400 { color: #26A69A }
+.text-teal500 { color: #009688 }
+.text-teal600 { color: #00897B }
+.text-teal700 { color: #00796B }
+.text-teal800 { color: #00695C }
+.text-teal900 { color: #004D40 }
+
+.text-teal-a100 { color: #A7FFEB }
+.text-teal-a200 { color: #64FFDA }
+.text-teal-a400 { color: #1DE9B6 }
+.text-teal-a700 { color: #00BFA5 }
+
+/* __green__ */
+.text-green50 { color: #E8F5E9 }
+.text-green100 { color: #C8E6C9 }
+.text-green200 { color: #A5D6A7 }
+.text-green300 { color: #81C784 }
+.text-green400 { color: #66BB6A }
+.text-green500 { color: #4CAF50 }
+.text-green600 { color: #43A047 }
+.text-green700 { color: #388E3C }
+.text-green800 { color: #2E7D32 }
+.text-green900 { color: #1B5E20 }
+
+.text-green-a100 { color: #B9F6CA }
+.text-green-a200 { color: #69F0AE }
+.text-green-a400 { color: #00E676 }
+.text-green-a700 { color: #00C853 }
+
+/* __ligh-green__ */
+.text-light-green50 { color: #F1F8E9 }
+.text-light-green100 { color: #DCEDC8 }
+.text-light-green200 { color: #C5E1A5 }
+.text-light-green300 { color: #AED581 }
+.text-light-green400 { color: #9CCC65 }
+.text-light-green500 { color: #8BC34A }
+.text-light-green600 { color: #7CB342 }
+.text-light-green700 { color: #689F38 }
+.text-light-green800 { color: #558B2F }
+.text-light-green900 { color: #33691E }
+
+.text-light-green-a100 { color: #CCFF90 }
+.text-light-green-a200 { color: #B2FF59 }
+.text-light-green-a400 { color: #76FF03 }
+.text-light-green-a700 { color: #64DD17 }
+
+/* __lime__ */
+.text-lime50 { color: #F9FBE7 }
+.text-lime100 { color: #F0F4C3 }
+.text-lime200 { color: #E6EE9C }
+.text-lime300 { color: #DCE775 }
+.text-lime400 { color: #D4E157 }
+.text-lime500 { color: #CDDC39 }
+.text-lime600 { color: #C0CA33 }
+.text-lime700 { color: #AFB42B }
+.text-lime800 { color: #9E9D24 }
+.text-lime900 { color: #827717 }
+
+.text-lime-a100 { color: #F4FF81 }
+.text-lime-a200 { color: #EEFF41 }
+.text-lime-a400 { color: #C6FF00 }
+.text-lime-a700 { color: #AEEA00 }
+
+/* __yellow__ */
+.text-yellow50 { color: #FFFDE7 }
+.text-yellow100 { color: #FFF9C4 }
+.text-yellow200 { color: #FFF59D }
+.text-yellow300 { color: #FFF176 }
+.text-yellow400 { color: #FFEE58 }
+.text-yellow500 { color: #FFEB3B }
+.text-yellow600 { color: #FDD835 }
+.text-yellow700 { color: #FBC02D }
+.text-yellow800 { color: #F9A825 }
+.text-yellow900 { color: #F57F17 }
+
+.text-yellow-a100 { color: #FFFF8D }
+.text-yellow-a200 { color: #FFFF00 }
+.text-yellow-a400 { color: #FFEA00 }
+.text-yellow-a700 { color: #FFD600 }
+
+/* __amber__ */
+.text-amber50 { color: #FFF8E1 }
+.text-amber100 { color: #FFECB3 }
+.text-amber200 { color: #FFE082 }
+.text-amber300 { color: #FFD54F }
+.text-amber400 { color: #FFCA28 }
+.text-amber500 { color: #FFC107 }
+.text-amber600 { color: #FFB300 }
+.text-amber700 { color: #FFA000 }
+.text-amber800 { color: #FF8F00 }
+.text-amber900 { color: #FF6F00 }
+
+.text-amber-a100 { color: #FFE57F }
+.text-amber-a200 { color: #FFD740 }
+.text-amber-a400 { color: #FFC400 }
+.text-amber-a700 { color: #FFAB00 }
+
+/* __orange__ */
+.text-orange50 { color: #FFF3E0 }
+.text-orange100 { color: #FFE0B2 }
+.text-orange200 { color: #FFCC80 }
+.text-orange300 { color: #FFB74D }
+.text-orange400 { color: #FFA726 }
+.text-orange500 { color: #FF9800 }
+.text-orange600 { color: #FB8C00 }
+.text-orange700 { color: #F57C00 }
+.text-orange800 { color: #EF6C00 }
+.text-orange900 { color: #E65100 }
+
+.text-orange-a100 { color: #FFD180 }
+.text-orange-a200 { color: #FFAB40 }
+.text-orange-a400 { color: #FF9100 }
+.text-orange-a700 { color: #FF6D00 }
+
+/* __deep-orange__ */
+.text-deep-orange50 { color: #FBE9E7 }
+.text-deep-orange100 { color: #FFCCBC }
+.text-deep-orange200 { color: #FFAB91 }
+.text-deep-orange300 { color: #FF8A65 }
+.text-deep-orange400 { color: #FF7043 }
+.text-deep-orange500 { color: #FF5722 }
+.text-deep-orange600 { color: #F4511E }
+.text-deep-orange700 { color: #E64A19 }
+.text-deep-orange800 { color: #D84315 }
+.text-deep-orange900 { color: #BF360C }
+
+.text-deep-orange-a100 { color: #FF9E80 }
+.text-deep-orange-a200 { color: #FF6E40 }
+.text-deep-orange-a400 { color: #FF3D00 }
+.text-deep-orange-a700 { color: #DD2C00 }
+
+/* __brown__ */
+.text-brown50 { color: #EFEBE9 }
+.text-brown100 { color: #D7CCC8 }
+.text-brown200 { color: #BCAAA4 }
+.text-brown300 { color: #A1887F }
+.text-brown400 { color: #8D6E63 }
+.text-brown500 { color: #795548 }
+.text-brown600 { color: #6D4C41 }
+.text-brown700 { color: #5D4037 }
+.text-brown800 { color: #4E342E }
+.text-brown900 { color: #3E2723 }
+
+/* __grey__ */
+.text-grey50 { color: #FAFAFA }
+.text-grey100 { color: #F5F5F5 }
+.text-grey200 { color: #EEEEEE }
+.text-grey300 { color: #E0E0E0 }
+.text-grey400 { color: #BDBDBD }
+.text-grey500 { color: #9E9E9E }
+.text-grey600 { color: #757575 }
+.text-grey700 { color: #616161 }
+.text-grey800 { color: #424242 }
+.text-grey900 { color: #212121 }
+
+/* __bluegrey__ */
+.text-bluegrey50 { color: #ECEFF1 }
+.text-bluegrey100 { color: #CFD8DC }
+.text-bluegrey200 { color: #B0BEC5 }
+.text-bluegrey300 { color: #90A4AE }
+.text-bluegrey400 { color: #78909C }
+.text-bluegrey500 { color: #607D8B }
+.text-bluegrey600 { color: #546E7A }
+.text-bluegrey700 { color: #455A64 }
+.text-bluegrey800 { color: #37474F }
+.text-bluegrey900 { color: #263238 }
